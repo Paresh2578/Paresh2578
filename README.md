@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Paresh2578
+- 👋 Hi, I’m @Paresh chaudhary
 - 👀 I’m interested in web and app devlopment
 - 🌱 I’m currently learning  flutter
 - 💞️ I’m looking to collaborate on ...
