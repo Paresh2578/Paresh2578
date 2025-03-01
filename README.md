@@ -17,7 +17,7 @@ Here are some of the technologies and languages I'm proficient in:
   <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet"/>
 
 - **Database Management:**<br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
 
 - **Programming Languages:**<br/>
   <img src="https://skillicons.dev/icons?i=js,dart,java"/>
